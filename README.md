@@ -1,7 +1,8 @@
 # IOS-Assignments
 ## Assignment 1
 
-###
+##Q1.1. Investigate and write down in detail which life cycle methods of App delegate and scene delegate are invoked in following scenarios: 
+
 ###a. App Launch
 When the app is launched, the following methods are invoked:
 
@@ -47,7 +48,7 @@ Simulating a memory warning triggers the following method:
 When the app is killed (either by the user or the system), the following methods are invoked:
 
 
-###Q2. 
+###Q2. Investigate and write down in detail which life cycle methods of UIViewController are invoked in following scenarios: 
 
 **a. App Launch**
 When the app is launched and the initial view controller is displayed, the following UIViewController lifecycle methods are invoked:
