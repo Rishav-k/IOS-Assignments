@@ -4,7 +4,7 @@
 ### App Launch
 When the app is launched, the following methods are invoked:
 
-AppDelegate:
+** AppDelegate: **
 
 application(_:willFinishLaunchingWithOptions:) – Called when the launch process is almost done, and the app is almost ready to run.
 application(_:didFinishLaunchingWithOptions:) – Called when the app has finished launching and is about to enter the active state.
